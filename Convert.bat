@@ -1,0 +1,1 @@
+XCopy "C:\dev\pdf-converter-service\*.*" "C:\dev\pdf-converter-Convert\*.txt"
